@@ -6,7 +6,7 @@ mods and world files will be saved in tModLoader folder
 
 some varriables have been removed such as difficulty, you will have to manually set it in serverconfig.txt
 
-video preview (extremly loud)
+video preview (extremly loud) \
 https://user-images.githubusercontent.com/62479501/175778726-e92e1549-d13b-49cf-96e0-f8190948bf71.mp4
 
 
