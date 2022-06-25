@@ -1,6 +1,6 @@
 # pterodactyl-egg-tmodloader
 
-literally fixed this because https://github.com/parkervcp/eggs/tree/master/game_eggs/terraria/tmodloader which didnt work due to the new tmodloader update
+temporary fix because of https://github.com/parkervcp/eggs/tree/master/game_eggs/terraria/tmodloader which didnt work due to the new tmodloader update
 
 mods and world files will be saved in tModLoader folder
 
